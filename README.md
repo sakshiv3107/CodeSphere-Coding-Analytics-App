@@ -65,10 +65,23 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 
 # 📸 Screenshots
 
+# 📸 Screenshots
+
 <p align="center">
-  <img src="images/home.png" width="250"/>
-  <img src="images/dashboard.png" width="250"/>
-  <img src="images/profile.png" width="250"/>
+  <img src="images/home_screen.jpeg" width="250"/>
+  <img src="images/profile_screen.jpeg" width="250"/>
+  <img src="images/goals_screen.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="images/leetcode_section.jpeg" width="250"/>
+  <img src="images/heatmap_section.jpeg" width="250"/>
+  <img src="images/topic_section.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="images/github_section.jpeg" width="250"/>
+  <img src="images/settings.jpeg" width="250"/>
 </p>
 
 ---
