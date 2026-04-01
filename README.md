@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <a href="YOUR_APK_LINK">
+  <a href="(https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.0.0/CodeSphere.apk)">
     <img src="https://img.shields.io/badge/⬇ Download APK-2ea44f?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
@@ -119,7 +119,7 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 # 📬 Contact
 
 👩‍💻 **Developer:** Sakshi Vishnoi
-📧 Email: [your-email@example.com](mailto:sakshi.vishnoi3107@gmail.com)
+📧 Email: mailto:sakshi.vishnoi3107@gmail.com
 
 ---
 
