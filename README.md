@@ -1,16 +1,16 @@
 # 🌌 CODESPHERE
 
-### 🚀 Your Smart Coding Analytics Companion
-
-**Track · Analyze · Improve · Dominate**
-
+<p align="center">
+  🚀 <b>Your Smart Coding Analytics Companion</b> <br/>
+  Track · Analyze · Improve · Dominate
+</p>
 ---
 
 <p align="center">  
   <a href="https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.1.0/CodeSphere.apk">
     <img src="https://img.shields.io/badge/⬇ Download APK-2ea44f?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-1.1.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Android-3ddc84?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-Flutter-02569B?style=for-the-badge" />
 </p>
@@ -65,8 +65,6 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 
 # 📸 Screenshots
 
-# 📸 Screenshots
-
 <p align="center">
   <img src="images/home_screen.jpeg" width="250"/>
   <img src="images/profile_screen.jpeg" width="250"/>
@@ -86,35 +84,47 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 
 ---
 
-# 🛠 Tech Stack
-
-### ⚙️ Core
-
-* Flutter
-* Dart
-
-### 🔄 State Management
-
-* Provider
-
-### ☁️ Backend & APIs
-
-* REST APIs
-* Firebase
-
-### 🎨 UI & Design
-
-* Google Fonts
-* FL Chart
-* Glassmorphism UI
-
-### 🔧 Utilities
-
-* Shared Preferences
-* Local Notifications
-* URL Launcher
 
 ---
+
+## 🛠 Tech Stack
+
+### ⚙️ Core
+- Flutter  
+- Dart  
+
+### 🔄 State Management
+- Provider  
+
+### ☁️ Backend & APIs
+- REST APIs  
+- Firebase  
+
+### 🎨 UI & Design
+- Google Fonts  
+- FL Chart  
+- Glassmorphism UI  
+
+### 🔧 Utilities
+- Shared Preferences  
+- Local Notifications  
+- URL Launcher  
+
+---
+
+## 📬 Contact
+
+👩‍💻 **Developer:** Sakshi Vishnoi  
+📧 **Email:** sakshi.vishnoi3107@gmail.com  
+
+---
+
+## ⭐ Support
+If you find **CodeSphere** useful:
+
+👉 Give it a ⭐ on GitHub  
+
+It helps others discover the project and motivates further development 🚀
 
 # 📬 Contact
 
