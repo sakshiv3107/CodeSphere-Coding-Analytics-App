@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1", 
-  "apk_url": "https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.3.1/CodeSphere.apk",
-  "changelog": "Added OTA update system 🚀"
+  "version": "1.3.2",
+  "apk_url": "https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.3.2/CodeSphere.apk",
+  "changelog": "Fixed OTA update installation bug 🔧"
 }
