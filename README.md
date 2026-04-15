@@ -7,7 +7,7 @@
 ---
 
 <p align="center">  
-  <a href="https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.2.0/CodeSphere.apk">
+  <a href=""https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.3.2/CodeSphere.apk">
     <img src="https://img.shields.io/badge/⬇ Download APK-2ea44f?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Version-1.2.0-blue?style=for-the-badge" />
