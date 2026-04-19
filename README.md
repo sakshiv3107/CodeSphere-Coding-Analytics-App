@@ -33,7 +33,7 @@
 
 # ✨ Overview
 
-**CodeSphere** is a modern coding analytics platform designed to help developers track their progress, analyze performance, and stay consistent.
+**CodeSphere** is a beautifully crafted, multi-platform coding analytics app built for competitive programmers and developers who want a unified view of their journey across platforms. Say goodbye to switching between LeetCode, CodeChef, GeeksforGeeks, and GitHub tabs — CodeSphere brings all your stats, streaks, contest history, and recent submissions into one sleek dark dashboard.
 
 It brings together insights from platforms like **LeetCode, CodeChef, Codeforces, and GitHub** into a single powerful dashboard.
 
@@ -49,17 +49,14 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 
 # ⚡ Features
 
-| 🚀 Feature                   | 📖 Description                                          |
-| ---------------------------- | ------------------------------------------------------- |
-| 📊 **Unified Coding Stats**  | Track problems, ratings, submissions across platforms   |
-| 📈 **Interactive Dashboard** | Visualize trends, streaks, and performance              |
-| 🤖 **AI Insights**           | Get real-time suggestions based on your coding activity |
-| 🔄 **Smart Syncing**         | Fast updates with optimized caching                     |
-| 🏆 **Contest Tracking**      | Monitor upcoming & past contests                        |
-| 🎯 **Goal Tracking**         | Set targets and get reminders                           |
-| 🔔 **Smart Notifications**   | Alerts for contests & goal completion                   |
-| 💼 **Developer Profile**     | Showcase skills, stats, and projects                    |
-| 🎨 **Premium UI/UX**         | Clean, modern, and smooth Flutter UI                    |
+* **📊 Unified Coding Dashboard**: Aggregate your stats from LeetCode, CodeChef, GeeksforGeeks, and GitHub — all in a single, beautiful home screen with animated cards and platform-wise breakdowns.
+* **🤖 AI Insight Coach**: Powered by **Google Gemini** (via direct REST calls with `gemini-2.0-flash`), get personalized coaching insights, performance analysis, and actionable recommendations based on your real coding activity.
+* **🔥 Streak & Activity Tracking**: Visual GitHub-style heatmap showing your daily coding activity. Never lose your streak again.
+* **🏆 Contest Analytics**: View your contest ratings, rank history, and performance trends over time across CodeChef and LeetCode.
+* **📝 Recent Submissions**: Browse your latest solved problems with verdict, difficulty, and platform info — all in one feed.
+* **📄 Resume Analyzer**: Upload your resume and get AI-powered feedback tailored for software engineering roles, with ATS score estimation and improvement suggestions.
+* **🔄 OTA Updates**: In-app over-the-air update system via GitHub Releases — the app notifies you and updates itself with one tap.
+* **⚡ Smart Caching & Resilience**: Stale-while-revalidate caching, exponential backoff, and parallel multi-source data racing ensure your stats load fast — even on Render.com free-tier cold starts.
 
 ---
 
