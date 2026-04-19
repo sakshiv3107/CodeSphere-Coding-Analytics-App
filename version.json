@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "apk_url": "https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.4.2/CodeSphere.apk",
-  "changelog": "Dashboard polish, improved UI consistency, and OTA fixes."
+  "version": "1.4.3",
+  "apk_url": "https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.4.3/CodeSphere.apk",
+  "changelog": "Minor UI improvements in the dashboard . Fixed issues in notification settings to ensure better reliability and control."
 }
 
