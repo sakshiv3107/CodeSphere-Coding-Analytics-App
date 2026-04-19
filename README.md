@@ -7,10 +7,10 @@
 ---
 
 <p align="center">  
-  <a href="https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.4.1/CodeSphere.apk">
+  <a href="https://github.com/sakshiv3107/CodeSphere-Coding-Analytics-App/releases/download/v1.4.2/CodeSphere.apk">
     <img src="https://img.shields.io/badge/⬇ Download APK-2ea44f?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Version-1.4.1-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-1.4.2-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Android-3ddc84?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-Flutter-02569B?style=for-the-badge" />
 </p>
