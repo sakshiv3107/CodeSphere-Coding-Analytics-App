@@ -62,27 +62,35 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 
 # 📸 Screenshots
 
+## 🏠 Home Dashboard
 <p align="center">
   <img src="images/home_screen.jpeg" width="250"/>
   <img src="images/home_screen_2.jpeg" width="250"/>
 </p>
 
+## 💻 LeetCode & Coding Progress
 <p align="center">
   <img src="images/leetcode_section.jpeg" width="250"/>
   <img src="images/heatmap_section.jpeg" width="250"/>
   <img src="images/topic_section.jpeg" width="250"/>
 </p>
 
+## 🐙 GitHub Insights
 <p align="center">
   <img src="images/github_section.jpeg" width="250"/>
-  <img src="images/github_section2.jpg" width="250"/>
+  <img src="images/github_section2.jpeg" width="250"/>
 </p>
+
+## 🎯 Goals Tracking
 <p align="center">
   <img src="images/goals_screem.jpeg" width="250"/>
+</p>
+
+## 🤖 AI Features
+<p align="center">
   <img src="images/ai_insight_coach1.jpg" width="250"/>
   <img src="images/resume_analyzer.jpg" width="250"/>
 </p>
-
 ---
 
 
@@ -119,13 +127,6 @@ CodeSphere helps you stay on track with **data-driven insights and smart recomme
 📧 **Email:** sakshi.vishnoi3107@gmail.com  
 
 ---
-
-## ⭐ Support
-If you find **CodeSphere** useful:
-
-👉 Give it a ⭐ on GitHub  
-
-It helps others discover the project and motivates further development 🚀
 
 # 📬 Contact
 
